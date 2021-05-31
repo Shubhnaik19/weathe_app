@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+#img-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.card{
+  border: transparent !important;
+}
+.pt-4{
+  background-color: transparent !important;
+  border-radius: 50% !important;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +49,4 @@
     transform: rotate(360deg);
   }
 }
+
